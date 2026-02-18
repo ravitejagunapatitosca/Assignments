@@ -57,55 +57,104 @@ console.log(`Coordinates of a location (latitude, longitude): ${lati},${Long}`)
 //Question7.
 //Person's marital status: true or false
 
-let 
+let maritalStatus: Boolean= false
+
+console.log(`Person's marital status: ${maritalStatus}`)
 
 //Question8.
 //Person's occupation: "Software Engineer"
+
+let occupation: string= "Software Engineer"
+
+console.log(`Person's occupation: ${occupation}`)
 
 
 //Question9.
 //Person's favourite colour: "Blue"
 
+let favColour: string = "Blue"
+
+console.log(`Person's favourite colour: ${favColour}`)
 
 //Question10.
 //Current year: 2023
+
+let year: number = 2023
+
+console.log(`Current year: ${year}`)
 
 
 //Question11.
 //Number of followers on a social media platform: 1,000,000
 
+let followers: number = 1000000
+
+console.log(`Number of followers on a social media platform: ${followers}`)
+
 
 //Question12.
 //Rating of a movie: 7.5
+
+let rating: number = 7.5
+
+console.log(`Rating of a movie: ${rating}`)
 
 
 //Question13.
 //Person's blood type: 'A'
 
+let bloodType: string = 'A'
+
+console.log(`Person's blood type: '${bloodType}'`)
+
+
 
 //Question14.
 //Title of a book: "To Kill a Mockingbird"
 
+let bookTitle: string = "To Kill a Mockingbird"
+
+console.log(`Title of a book: "${bookTitle}"`)  
 
 //Question15.
 //Number of employees in a company: 500
 
+let employees: number = 500
+
+console.log(`Number of employees in a company: ${employees}`)
 
 //Question16.
 //Time of an event: 2:30 PM
+
+let eventTime: string = "2:30 PM"
+
+console.log(`Time of an event: ${eventTime}`)
 
 
 //Question17.
 //Name of a country: "United States"
 
+let country: string = "United States"
+
+console.log(`Name of a country: "${country}"`)
 
 //Question18.
 //Person's eye color: "Brown"
+
+let eyeColor: string = "Brown"
+console.log(`Person's eye color: "${eyeColor}"`)
 
 
 //Question19.
 //Person's birthplace: "New York City"
 
+let birthPlace: string = "New York City"
+
+console.log(`Person's birthplace: "${birthPlace}"`)
 
 //Question20.
 //Distance between two cities: 200.5
+
+let distance: number = 200.5
+
+console.log(`Distance between two cities: ${distance}`)
