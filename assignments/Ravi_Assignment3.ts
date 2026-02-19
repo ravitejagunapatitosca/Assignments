@@ -15,7 +15,7 @@ for(let i =0; i< marks.length; i++)
     let newMark: number = marks[i];
     newMark += 10;
     updatedMarks.push(newMark);
-    console.log(`${studentName[i]} marke are ${updatedMarks[i]}`)
+    console.log(`${studentName[i]} marks are ${updatedMarks[i]}`)
 }
 
 //average marks of all the students
