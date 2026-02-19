@@ -3,13 +3,9 @@
 console.log('without functions')
 
 let  custommerName: string = "Ravi"
-
 let cibilScore: number = 749;
-
 let Salary: number = 50000;
-
 let DTI: number = 39;
-
 let empStatus: Boolean = true;
 
 console.log(`Loan evealuation process for ${custommerName}`)
@@ -45,7 +41,6 @@ else if(cibilScore >650 && cibilScore < 750)
     }
 else
 {
-
     console.log('the loan is denied because you have cibil score less than 650')
 }
 
