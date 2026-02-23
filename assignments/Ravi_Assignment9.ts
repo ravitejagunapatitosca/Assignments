@@ -1,5 +1,5 @@
 //Right side triangle with *
-
+console.log("Right side triangle with *")
 
 let stars: number = 5;
 for (let i:number = 1; i <=stars; i++) 
